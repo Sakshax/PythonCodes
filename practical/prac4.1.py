@@ -1,3 +1,4 @@
+#Program to find the vowels in a sentence
 def get_vowels(sentence):
     return set(sentence) & {'a', 'e', 'i', 'o', 'u' , 'A', 'E', 'I', 'O' , 'U'}
 
