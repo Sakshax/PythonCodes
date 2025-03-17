@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/pythoncodes.git
+git clone 
 cd pythoncodes
 
 Usage
