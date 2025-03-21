@@ -1,4 +1,3 @@
-# Arithmetic Operators
 """
 This script demonstrates the usage of various operators in Python, including arithmetic, assignment, relational, logical, and bitwise operators. Each operation is performed with example values and the results are printed with descriptive comments.
 
@@ -44,6 +43,8 @@ Operators covered:
 
 Each section includes example operations with variables and the output of each operation is provided in comments for clarity.
 """
+# Arithmetic Operators
+
 a = 10
 b = 5
 
